@@ -1,0 +1,29 @@
+*
+{
+    margin: 0;
+    padding:  0;
+}
+body {
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+    left: 25%;
+    font-family: 'Montserrat';
+    color: #FFFFFF;
+    font-size: 4em;
+    
+    
+    
+    overflow: hidden;
+  }
+  h1{
+      padding-left: 2em;
+      
+  }
+
+#particles-js{
+    background-image: url(images/bg.jpg);
+    background-size: cover;
+    height: 800px;
+
+}
